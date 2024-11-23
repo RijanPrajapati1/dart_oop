@@ -1,6 +1,8 @@
 //Polymorphism is an OOP concept that allows one method, class, or object to take multiple forms. It enables the same method to behave differently
 // based on the object it is acting on, promoting flexibility and code reusability.
 
+//method overriding-already define vako method lai feri define garna lai
+
 // Parent class (Vehicle)
 class Vehicle {
   void start() {
