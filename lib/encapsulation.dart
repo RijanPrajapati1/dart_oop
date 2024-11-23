@@ -1,3 +1,6 @@
+// Encapsulation is an OOP principle that involves bundling the data (variables) and the methods (functions) that operate on the data into a single unit,
+// called a class. It also hides the internal details (data) from outside access and provides controlled access through getters and setters.
+
 class Car {
   // Private variables
   String _carBrand;
